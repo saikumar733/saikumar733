@@ -64,7 +64,7 @@ Here are some ideas to get you started:
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
             </a>
             <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="react" /> 
+                <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django" width="30px" height="40"/> 
             </a>
         </p>
     </div>
