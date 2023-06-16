@@ -88,8 +88,8 @@ Here are some ideas to get you started:
 </div>
 
 <div class="footer-section">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinil-thilakarathne&show_icons=true&locale=en&layout=compact" alt="dinil-thilakarathne" /></p>
-    <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dinil-thilakarathne&show_icons=true&locale=en" alt="dinil-thilakarathne" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikumar733&show_icons=true&locale=en&layout=compact" alt="saikumar733" /></p>
+    <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=saikumar733&show_icons=true&locale=en" alt="saikumar733" /></p>
 </div>
 
 
